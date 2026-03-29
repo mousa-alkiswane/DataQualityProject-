@@ -48,4 +48,8 @@ A **score** is generated for each table and visualized in a **dashboard**.
 | Accuracy     | Verifies correctness of the values (e.g., valid emails, proper date format).|
 | Uniqueness   | Checks for duplicate records in primary fields or key attributes.           |
 
+
+<img width="2277" height="1270" alt="DQ(dashbord)" src="https://github.com/user-attachments/assets/fe83e2b1-085c-4581-8497-94a039f5c720" />
+
+
 ---
