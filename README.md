@@ -1,3 +1,4 @@
+<img width="2277" height="1270" alt="DQ(dashbord)" src="https://github.com/user-attachments/assets/854bafd3-cc9b-4004-9d3a-b42522176bb7" />
 # Data Quality Framework Project
 
 ## Description
